@@ -1,0 +1,16 @@
+{
+  "name": "expree.js",
+  "version": "1.0.0",
+  "description": "expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaikh afzal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.16"
+  }
+}
